@@ -51,5 +51,5 @@
 
 ---
 
-> "We are the storytellers of both worlds — analog and synthetic."  
+> "We are the storytellers of both worlds — analog and digital."  
 > — C.C. Dune
