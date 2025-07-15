@@ -23,7 +23,7 @@
 
 - 🚀 Enlightenment, the esoteric, extraterrestrial life, and the mind-bending scale of the universe  
 - 🏡 Remote work life balance, improving the world by developing and training AI  
-- 🧠 Learn Chinese 🇨🇳 and Spanish 🇪🇸 — become a polyglot  
+- 🧠 Learn to speak Spanish and doing Math and CS on Brilliant  
 - 🎯 Relearning math + coding to pivot into AI and software development 
 
 ---
