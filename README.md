@@ -46,7 +46,7 @@
 
 ## 📈 GitHub Stats
 
-![Clay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CCDune&show_icons=true&theme=radical)
+![Clay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willclaybeach&show_icons=true&theme=radical)
 
 ---
 
