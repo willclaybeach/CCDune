@@ -6,7 +6,7 @@
 
 ## 📍 Currently Based In
 
-🇺🇸 Killen, Texas
+🇺🇸 Kempner, Texas
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/clay-beach-91611079)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/willclaybeach)  
 - 📸 [Instagram (Personal)](https://www.instagram.com/therealclaybeach)  
 - 🧠 [Instagram (SyntheticK Studios)](https://www.instagram.com/synthetickstudios)
 
@@ -52,4 +52,4 @@
 ---
 
 > "We are the storytellers of both worlds — analog and digital."  
-> — C.C. Dune
+> — William Clay Beach
