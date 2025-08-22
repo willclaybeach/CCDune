@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Clay Beach
+# 👋 Hey there, I'm William "Clay" Beach
 
 🎥 **Videographer by trade**, 🎙️ **Public Affairs Specialist at U.S. Southern Command**, and 🧑‍💻 **Full Stack Developer**. Not only do I craft compelling narratives through videos, photos, podcasts, and graphics, bringing missions and stories to life; I am a Full Stack Developer, problem solver, and general DIYer for all things cars, computers, and more. 
 
