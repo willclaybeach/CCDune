@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Clay Beach
 
-🎥 **Videographer by trade**, 🎙️ **Public Affairs Specialist at U.S. Southern Command**, and 🧑‍💻 **Full Stack Developer in training**. I craft compelling narratives through videos, photos, podcasts, and graphics, bringing missions and stories to life.
+🎥 **Videographer by trade**, 🎙️ **Public Affairs Specialist at U.S. Southern Command**, and 🧑‍💻 **Full Stack Developer**. Not only do I craft compelling narratives through videos, photos, podcasts, and graphics, bringing missions and stories to life; I am a Full Stack Developer, problem solver, and general DIYer for all things cars, computers, and more. 
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **Visual Media**: Photography, Videography, Photo & Video Editing  
 - **Content Creation**: Podcast Production, Graphic Design, Storytelling  
-- **Development**: HTML, CSS, JavaScript (learning), Python (exploring), Flask, Bootstrap  
+- **Development**: HTML, CSS, JavaScript, Python, Flask, Bootstrap, React, APIs,  
 - **Tools**: Adobe Creative Suite, GitHub, VS Code, AI APIs (like ElevenLabs adding more by the week!)
 
 ---
@@ -23,8 +23,7 @@
 
 - 🚀 Enlightenment, the esoteric, extraterrestrial life, and the mind-bending scale of the universe  
 - 🏡 Remote work life balance, improving the world by developing and training AI  
-- 🧠 Learn to speak Spanish and doing Math and CS on Brilliant  
-- 🎯 Relearning math + coding to pivot into AI and software development 
+- 🧠 Learning to speak Spanish and learning Math and CS on the Brilliant platform  
 
 ---
 
